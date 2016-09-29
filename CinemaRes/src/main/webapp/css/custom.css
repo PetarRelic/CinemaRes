@@ -1,0 +1,59 @@
+.podnaslov{
+	text-align: left;
+}
+
+.bioskopi{
+	height: 150px;
+}
+
+.bxslider img {
+	max-height: 670px;
+	/*width: 100%;*/
+}
+
+.item img {
+	max-height: 670px;
+	/*width: 100%;*/
+}
+
+.crvena {
+	border-color: red !important;
+}
+
+.default {
+	border-color: none;
+}
+
+.hide {
+	visibility:hidden;
+	display: none;
+}
+
+.warrning {
+	color: red;
+}
+.sakriven {
+	visibility: hidden; display: none;
+}
+.filmovi-slike{
+	height : 140px;
+	width: 200px;
+}
+.portrait img {
+    width: 100%;
+}
+.landscape img {
+    height: 100%;
+}
+#carusel_wrapperr img {
+    display: block;
+}
+
+.ispravka{
+    width: 100%;
+    height: 100%;
+}
+
+.pozadina{
+    background-color: white;
+}
